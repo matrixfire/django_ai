@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     # My apps.
     'learning_logs',
+    'chatapp',
     'accounts',
 
     # Third party apps.
